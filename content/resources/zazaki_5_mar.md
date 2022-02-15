@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: zazaki_5_mar.pdf
-type: OCWFile
 uid: 9fd679be-94f8-cf92-bcba-429a5d9ca7bf
 ---

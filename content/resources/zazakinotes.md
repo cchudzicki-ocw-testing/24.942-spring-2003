@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: zazakinotes.pdf
-type: OCWFile
 uid: f776582c-fd5a-f148-d952-37f9ce05642b
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: zazaki21.pdf
-type: OCWFile
 uid: 92daa8b2-5681-c67f-8d50-84b7dffd59fd
 ---

@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Methodology
-type: CourseSection
 uid: 1f15b302-9a9a-4ec4-4416-9b27032c469d
 ---
 
