@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 248ffcc0-a41c-06a0-10ac-bb17f0d39e66
 resourcetype: Document
 title: zazaki21.pdf
 uid: 92daa8b2-5681-c67f-8d50-84b7dffd59fd

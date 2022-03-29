@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 248ffcc0-a41c-06a0-10ac-bb17f0d39e66
 resourcetype: Document
 title: hiatusnotes.pdf
 uid: 188052d7-a03f-a533-cbff-4ff6ab6eeec2
